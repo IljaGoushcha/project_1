@@ -26,7 +26,6 @@ gem 'devise'
 gem 'omniauth'
 gem 'omniauth-linkedin-oauth2'
 gem 'sdoc', '~> 0.4.0', group: :doc
-gem 'json'
 
 gem 'rails_12factor', group: :production
 # Use ActiveModel has_secure_password
